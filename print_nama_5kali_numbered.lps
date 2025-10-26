@@ -6,11 +6,11 @@
     <BuildModes Active="Default"/>
     <Units>
       <Unit>
-        <Filename Value="menukar2bilanganint.lpr"/>
+        <Filename Value="print_nama_5kali_numbered.lpr"/>
         <IsPartOfProject Value="True"/>
         <IsVisibleTab Value="True"/>
         <EditorIndex Value="-1"/>
-        <CursorPos Y="15"/>
+        <CursorPos Y="14"/>
         <UsageCount Value="20"/>
       </Unit>
     </Units>

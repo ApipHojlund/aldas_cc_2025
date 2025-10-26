@@ -6,17 +6,14 @@
     <BuildModes Active="Default"/>
     <Units>
       <Unit>
-        <Filename Value="menukar2bilanganint.lpr"/>
+        <Filename Value="print_nama_n_kali_numbered.lpr"/>
         <IsPartOfProject Value="True"/>
         <IsVisibleTab Value="True"/>
-        <EditorIndex Value="-1"/>
-        <CursorPos Y="15"/>
+        <CursorPos X="5" Y="15"/>
         <UsageCount Value="20"/>
+        <Loaded Value="True"/>
       </Unit>
     </Units>
-    <General>
-      <ActiveWindowIndexAtStart Value="-1"/>
-    </General>
     <JumpHistory HistoryIndex="-1"/>
     <RunParams>
       <FormatVersion Value="2"/>
