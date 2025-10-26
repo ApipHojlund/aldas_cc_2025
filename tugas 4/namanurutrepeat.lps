@@ -6,17 +6,20 @@
     <BuildModes Active="Default"/>
     <Units>
       <Unit>
-        <Filename Value="print_nama_5kali_numbered.lpr"/>
+        <Filename Value="namanurutrepeat.lpr"/>
         <IsPartOfProject Value="True"/>
         <IsVisibleTab Value="True"/>
-        <EditorIndex Value="-1"/>
+        <CursorPos Y="21"/>
         <UsageCount Value="20"/>
+        <Loaded Value="True"/>
       </Unit>
     </Units>
-    <General>
-      <ActiveWindowIndexAtStart Value="-1"/>
-    </General>
-    <JumpHistory HistoryIndex="-1"/>
+    <JumpHistory>
+      <Position>
+        <Filename Value="namanurutrepeat.lpr"/>
+        <Caret Line="21"/>
+      </Position>
+    </JumpHistory>
     <RunParams>
       <FormatVersion Value="2"/>
       <Modes ActiveMode=""/>

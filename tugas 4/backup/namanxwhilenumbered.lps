@@ -6,16 +6,14 @@
     <BuildModes Active="Default"/>
     <Units>
       <Unit>
-        <Filename Value="print_nama_5kali_numbered.lpr"/>
+        <Filename Value="namanxwhilenumbered.lpr"/>
         <IsPartOfProject Value="True"/>
         <IsVisibleTab Value="True"/>
-        <EditorIndex Value="-1"/>
+        <CursorPos X="16" Y="7"/>
         <UsageCount Value="20"/>
+        <Loaded Value="True"/>
       </Unit>
     </Units>
-    <General>
-      <ActiveWindowIndexAtStart Value="-1"/>
-    </General>
     <JumpHistory HistoryIndex="-1"/>
     <RunParams>
       <FormatVersion Value="2"/>

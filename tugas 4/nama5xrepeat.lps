@@ -6,10 +6,11 @@
     <BuildModes Active="Default"/>
     <Units>
       <Unit>
-        <Filename Value="print_nama_5kali_numbered.lpr"/>
+        <Filename Value="nama5xrepeat.lpr"/>
         <IsPartOfProject Value="True"/>
         <IsVisibleTab Value="True"/>
         <EditorIndex Value="-1"/>
+        <CursorPos Y="19"/>
         <UsageCount Value="20"/>
       </Unit>
     </Units>
