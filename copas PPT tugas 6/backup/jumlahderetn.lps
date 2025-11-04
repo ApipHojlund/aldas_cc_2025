@@ -6,15 +6,21 @@
     <BuildModes Active="Default"/>
     <Units>
       <Unit>
-        <Filename Value="hitungratarata_n_not5.lpr"/>
+        <Filename Value="jumlahderetn.lpr"/>
         <IsPartOfProject Value="True"/>
         <IsVisibleTab Value="True"/>
-        <EditorIndex Value="-1"/>
-        <CursorPos X="25" Y="15"/>
+        <TopLine Value="3"/>
+        <CursorPos Y="11"/>
         <UsageCount Value="20"/>
+        <Loaded Value="True"/>
       </Unit>
     </Units>
-    <JumpHistory HistoryIndex="-1"/>
+    <JumpHistory>
+      <Position>
+        <Filename Value="jumlahderetn.lpr"/>
+        <Caret Line="13" Column="44"/>
+      </Position>
+    </JumpHistory>
     <RunParams>
       <FormatVersion Value="2"/>
       <Modes ActiveMode=""/>

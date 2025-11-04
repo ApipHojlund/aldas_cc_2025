@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="E:\software\Lazarus\fpc\3.2.2\bin\i386-win32\fpc.exe" Date="1525896643"/>
+  <Params Value="-MObjFPC -Scghi -O1 -gw3 -gl -l -vewnhibq -FiE:\KAYYIS\tugas\aldas\aldas_cc_2025\lib\i386-win32 -FuE:\KAYYIS\tugas\aldas\aldas_cc_2025\ -FUE:\KAYYIS\tugas\aldas\aldas_cc_2025\lib\i386-win32\ -FEE:\KAYYIS\tugas\aldas\aldas_cc_2025\ -oE:\KAYYIS\tugas\aldas\aldas_cc_2025\hitungratarata_n_not5.exe hitungratarata_n_not5.lpr"/>
+</CONFIG>
